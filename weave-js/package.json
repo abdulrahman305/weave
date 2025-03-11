@@ -89,7 +89,7 @@
     "pca-js": "^1.0.2",
     "plotly.js": "^2.23.2",
     "plotly.js-dist-min": "^2.6.3",
-    "prismjs": "1.29.0",
+    "prismjs": "1.30.0",
     "query-string": "^8.1.0",
     "react": "^17.0.2",
     "react-app-polyfill": "^3.0.0",
